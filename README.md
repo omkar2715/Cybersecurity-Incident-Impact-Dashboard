@@ -1,7 +1,6 @@
-# Cybersecurity-Incident-Impact-Dashboard
+# 🛡️ Cybersecurity-Incident-Impact-Dashboard
 An interactive Power BI dashboard that analyzes cybersecurity incidents, financial losses, attack vectors, and operational impact using data modeling, DAX, and interactive visualizations.
 
-# 🛡️ Cybersecurity Incident Impact Dashboard
 
 ##  Overview
 The Cybersecurity Incident Impact Dashboard is an interactive Power BI project that analyzes cybersecurity incidents and their financial, operational, and business impact. The dashboard provides insights into attack trends, financial losses, compromised records, downtime, and company risk using interactive visualizations.
